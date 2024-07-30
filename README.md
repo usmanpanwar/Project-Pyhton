@@ -1,6 +1,6 @@
 # Project-Pyhton
 Completed a solo project using pyhton on Jupyter Lab
-the instrcutions wre as follows-
+the instrcutions were as follows-
 Define a problem as per your data, mainly why you have chosen the dataset and what goal you want to achieve.
 example, from customer data with following attributes (Customer ID, Age, Salary, Job title, Tax, Length of work experience, Ranking), based on different attributes we can predict the Ranking of membership, as you can see Ranking is part of dataset. Seem like its Regression (if we consider Ranking a number) or Classification (If we consider Ranking a Category) problem.
 Provide the dimension of Dataset using Python functions (Rows and Columns)
